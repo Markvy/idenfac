@@ -1,0 +1,9 @@
+/shuttle/technology/images/sts_spec_6-small.gif
+/
+/ksc.html
+/history/apollo/
+/shuttle/missions/sts-73/sts-73-patch-small.gif
+/shuttle/missions/sts-73/mission-sts-73.html
+/shuttle/countdown/
+/history/mercury/mercury.html
+/shuttle/countdown/liftoff.html
